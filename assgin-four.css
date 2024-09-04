@@ -1,0 +1,11 @@
+a{
+   display: flex;
+   padding: 10px;
+   margin: 0px;
+   background-color: #1CDBBB;
+   text-transform: capitalize;
+   text-decoration: none;
+   border-bottom: 5px solid #392829;
+   justify-content: center 
+   
+}

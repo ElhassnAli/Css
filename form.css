@@ -1,0 +1,26 @@
+form{
+   background-image: url(/Css/wallpaperflare.com_wallpaper.jpg);
+   border-radius: 15px 15px;
+   padding: 10px;
+   background-repeat: no-repeat
+}
+label{
+   display: inline-block;
+   text-transform: capitalize;
+   text-align: center
+}
+h1{
+   text-align: center ;
+   background: #9699BE;
+   border-radius: 50px 50px;
+   
+}
+input{
+   border-radius: 50px 50px;
+   background-color: #4B4FAE;
+   padding: 10px;
+   margin: 10px;
+}
+::-webkit-input-placeholder{
+   text-align: capitalize;
+}

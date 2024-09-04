@@ -1,0 +1,11 @@
+div{
+   background-color: #40425561;
+}
+.a{
+   padding: 5px;
+   background-color: #42445A;
+   width: 400px;
+   white-space: nowrap;
+   overflow: hidden;
+   text-overflow: ellipsis;
+}
